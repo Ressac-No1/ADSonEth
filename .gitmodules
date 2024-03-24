@@ -1,3 +1,6 @@
 [submodule "trie"]
 	path = trie
 	url = https://github.com/paritytech/trie
+[submodule "rust-verkle"]
+	path = rust-verkle
+	url = https://github.com/crate-crypto/rust-verkle

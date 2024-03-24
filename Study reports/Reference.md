@@ -21,6 +21,9 @@ https://eips.ethereum.org/EIPS/eip-2929
 #### EIP-2930: Optional access lists
 https://eips.ethereum.org/EIPS/eip-2930
 
+#### EIP-6800: Ethereum state using a unified verkle tree
+https://eips.ethereum.org/EIPS/eip-6800
+
 #### Verkle Trees
 Kuszmaul, J. (2019). *Verkle trees*. Verkle Trees, 1, 1.
 
