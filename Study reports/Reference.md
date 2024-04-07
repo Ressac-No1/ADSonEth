@@ -21,12 +21,21 @@ https://eips.ethereum.org/EIPS/eip-2929
 #### EIP-2930: Optional access lists
 https://eips.ethereum.org/EIPS/eip-2930
 
+#### EIP-4762: Statelessness gas cost changes
+https://eips.ethereum.org/EIPS/eip-4762
+
 #### EIP-6800: Ethereum state using a unified verkle tree
 https://eips.ethereum.org/EIPS/eip-6800
 
-#### Verkle Trees
+#### Verkle Trees (Original paper)
 Kuszmaul, J. (2019). *Verkle trees*. Verkle Trees, 1, 1.
 
-#### Verkle trees (in Vitalik's blog)
+#### Verkle trees (in Vitalik’s blog)
 https://vitalik.eth.limo/general/2021/06/18/verkle.html
+
+#### PCS multiproofs using random evaluation (by Dankrad Feist)
+https://dankradfeist.de/ethereum/2021/06/18/pcs-multiproofs.html
+
+#### VerkleInfo: Verkle Trees for Statelessness
+https://verkle.info
 
